@@ -1,5 +1,4 @@
-### Luís Mendes 👋
-  
+### Luís Mendes
   ##
   
 [![Luís' GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisMendesDev)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,9 +16,7 @@
   <a href="https://www.linkedin.com/in/luis-mendes-7a4846197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Um pouco sobre mim
-
-- 🌱 I’m currently learning HTML, CSS and JS
+## 
 
 
 
