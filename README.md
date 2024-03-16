@@ -3,7 +3,7 @@
 
 <div>  
   
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuisMendesDev&show_icons=true&theme=radical"> </a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMendesDev&theme=radical&hide_border=false" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuisMendesDev&show_icons=true&theme=radical"> </a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMendesDev&theme=radical&layout=compact&hide_border=false" /></a>
 </div>
 
 <div style="display: inline_block"><br>
